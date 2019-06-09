@@ -15,6 +15,4 @@
 `
 
 
-`` git push origin master
-
 
